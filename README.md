@@ -5,7 +5,7 @@ This repository accompanies the paper https://arxiv.org/pdf/1505.07186.
 The single most important thing to understand is that the search is NOT trying to find forbidden cliques. It is trying to find Ramsey counterexamples.
 
 For R(k,j), a counterexample on N vertices is a coloring with:
-- no red K_k
+- no red $K_k$
 - no blue K_j
 
 For example, for R(4,7), a successful coloring has red clique number at most 3 and blue clique number at most 6.
